@@ -1,1 +1,1 @@
-# spring-boot-custom-annotation-validation-with-jpa
+# spring-boot-rest-api-validation
